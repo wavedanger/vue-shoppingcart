@@ -1,0 +1,45 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "productId": "10001",
+            "productName": "浪险1",
+            "productPrice": 99,
+            "productNum": 2,
+            "productImage": "1.jpg",
+            "checked": false
+        },
+        {
+            "productId": "10002",
+            "productName": "浪险2",
+            "productPrice": 199,
+            "productNum": 2,
+            "productImage": "2.jpg",
+            "checked": false
+        },
+        {
+            "productId": "10003",
+            "productName": "浪险3",
+            "productPrice": 999,
+            "productNum": 2,
+            "productImage": "3.jpg",
+            "checked": true
+        },
+        {
+            "productId": "10004",
+            "productName": "浪险4",
+            "productPrice": 399,
+            "productNum": 3,
+            "productImage": "4.jpg",
+            "checked": false
+        },
+        {
+            "productId": "10005",
+            "productName": "浪险5",
+            "productPrice": 299,
+            "productNum": 2,
+            "productImage": "5.jpg",
+            "checked": true
+        }
+    ]
+}

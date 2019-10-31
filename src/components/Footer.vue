@@ -1,6 +1,6 @@
 <template>
-  <div class="hello">
-    <h1>{{ msg }}</h1>
+  <div class="body">
+    <div>Copyright @2019 wavedanger 版权所有</div>
   </div>
 </template>
 
@@ -14,4 +14,14 @@ export default {
 </script>
 
 <style scoped>
+.body{
+    width:100%;
+    height:60px;
+    color:white;
+    background-color:#333;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+  }
 </style>
