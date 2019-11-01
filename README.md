@@ -1,5 +1,8 @@
 # shoppingcart
-
+## 预览
+<img src="http://wavedanger.gitee.io/vue-music-online/images/cart.gif" width="250"/>
+## 技术栈
+vue vue-axios vue-cli es6
 ## Project setup
 ```
 npm install
